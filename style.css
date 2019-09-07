@@ -1,0 +1,72 @@
+ @font-face{
+	font-family: Etna;
+	src:url("etna.otf");
+}
+body{
+	width: 90%;
+	margin: 0 auto;
+	padding: 0;
+	
+}
+.wrapper{
+	background-color: #D3B183;
+	min-width: 100%;
+	min-height: 100%;
+	font-family: Etna;
+	color: black;
+	position: relative;
+	padding: 0;
+	margin: 0;
+
+
+}
+
+
+ h1{
+ 	writing-mode: sideways-lr;
+ 	text-orientation: mixed;
+ 	font-weight: bold;
+ 	color: black;
+ 	opacity: 0.1;
+ 	padding: 0px;
+ 	position: relative;
+ 	font-size: 100px;
+ 	margin: 0pc;
+ 	right: 20%;
+
+
+
+ 	
+ }
+ h3{
+ 	font-size: 40px;
+ 	margin: 0;
+ 	padding-left: 20px;
+ }
+ .space{
+ 	height: 70px;
+ }
+ .mem{
+ 	width: 180px;
+ 	height: 200px;
+ 	display: inline-block;
+ 	margin-right: 10px;
+ 	margin-bottom: 50px;
+ 	float: right;
+
+ }
+ .mem-dp{
+ 	width: 150px;
+ 	height: 150px;
+ 	border-radius: 127px 127px 127px 0px;
+ }
+ .name{
+ 	padding-left: 20px;
+ 	font-family: Etna;
+ 	color: black;
+ 	margin-top: 5px;
+ }
+
+
+
+

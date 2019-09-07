@@ -33,6 +33,7 @@ body{
  	font-size: 100px;
  	margin: 0pc;
  	right: 20%;
+	  @include transform(rotate(270deg));
 
 
 
